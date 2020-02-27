@@ -1,0 +1,118 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.yona.quiz"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:5:5-55:19
+12        android:allowBackup="true"
+12-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.0.1] /home/yona/.gradle/caches/transforms-2/files-2.1/46da25c3e2ae6308b2227b660caa604d/core-1.0.1/AndroidManifest.xml:22:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:10:9-35
+19        android:theme="@style/AppTheme" >
+19-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:11:9-40
+20        <activity
+20-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:12:9-15:68
+21            android:name="com.yona.quiz.ResultActivity"
+21-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:13:13-43
+22            android:label="@string/title_activity_result"
+22-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:14:13-58
+23            android:theme="@style/AppTheme.NoActionBar" />
+23-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:15:13-56
+24        <activity
+24-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:16:9-19:59
+25            android:name="com.yona.quiz.Question8Activity"
+25-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:17:13-46
+26            android:label="Question8Activity"
+26-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:18:13-46
+27            android:theme="@style/AppTheme.NoActionBar" />
+27-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:19:13-56
+28        <activity
+28-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:20:9-23:59
+29            android:name="com.yona.quiz.Question7Activity"
+29-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:21:13-46
+30            android:label="@string/title_activity_question7"
+30-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:22:13-61
+31            android:theme="@style/AppTheme.NoActionBar" />
+31-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:23:13-56
+32        <activity
+32-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:24:9-27:59
+33            android:name="com.yona.quiz.Question6Activity"
+33-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:25:13-46
+34            android:label="@string/title_activity_question6"
+34-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:26:13-61
+35            android:theme="@style/AppTheme.NoActionBar" />
+35-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:27:13-56
+36        <activity
+36-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:28:9-31:59
+37            android:name="com.yona.quiz.Question5Activity"
+37-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:29:13-46
+38            android:label="Question5Activity"
+38-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:30:13-46
+39            android:theme="@style/AppTheme.NoActionBar" />
+39-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:31:13-56
+40        <activity
+40-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:32:9-35:59
+41            android:name="com.yona.quiz.Question4Activity"
+41-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:33:13-46
+42            android:label="@string/title_activity_question4"
+42-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:34:13-61
+43            android:theme="@style/AppTheme.NoActionBar" />
+43-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:35:13-56
+44        <activity
+44-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:36:9-39:59
+45            android:name="com.yona.quiz.Question3Activity"
+45-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:37:13-46
+46            android:label="@string/title_activity_question3"
+46-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:38:13-61
+47            android:theme="@style/AppTheme.NoActionBar" />
+47-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:39:13-56
+48        <activity
+48-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:40:9-43:59
+49            android:name="com.yona.quiz.Question2Activity"
+49-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:41:13-46
+50            android:label="@string/title_activity_question2"
+50-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:42:13-61
+51            android:theme="@style/AppTheme.NoActionBar" />
+51-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:43:13-56
+52        <activity android:name="com.yona.quiz.QuestionActivity" />
+52-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:44:9-54
+52-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:44:19-51
+53        <activity
+53-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:45:9-54:20
+54            android:name="com.yona.quiz.MainActivity"
+54-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:46:13-41
+55            android:label="@string/app_name"
+55-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:47:13-45
+56            android:theme="@style/AppTheme.NoActionBar" >
+56-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:48:13-56
+57            <intent-filter>
+57-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:49:13-53:29
+58                <action android:name="android.intent.action.MAIN" />
+58-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:50:17-69
+58-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:50:25-66
+59
+60                <category android:name="android.intent.category.LAUNCHER" />
+60-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:52:17-77
+60-->/home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:52:27-74
+61            </intent-filter>
+62        </activity>
+63    </application>
+64
+65</manifest>
