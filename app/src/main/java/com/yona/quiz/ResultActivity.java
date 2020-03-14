@@ -4,10 +4,17 @@ import android.content.Intent;
 import android.media.MediaPlayer;
 import android.os.Bundle;
 
+import android.util.Log;
 import android.view.View;
 import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.ValueEventListener;
 
 public class ResultActivity extends AppCompatActivity {
 
@@ -21,6 +28,7 @@ public class ResultActivity extends AppCompatActivity {
         mediaPlayer.start();
     }
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -28,24 +36,35 @@ public class ResultActivity extends AppCompatActivity {
 
         Intent previousIntent = getIntent();
         Integer correctCount = previousIntent.getIntExtra("correctCount", 0);
+        String user = previousIntent.getStringExtra("username");
         TextView result = findViewById(R.id.Result);
         result.setText(correctCount.toString());
         TextView resultText = findViewById(R.id.resultCount);
         resultText.setText(correctCount.toString());
 
-        if(correctCount >= 4){
+        if (correctCount >= 4) {
             playSoundWin();
             result.setText(correctCount.toString());
-            resultText.setText("Parabens! Você manja de Netflix!");
+            resultText.setText("Parabens! Você conhece muito sobre Netflix!");
         } else {
             playSoundLose();
             result.setText(correctCount.toString());
-            resultText.setText("Parabens!Você tem vida social!");
+            resultText.setText("Continue assim, na próxima você consegue!");
         }
+
+        FirebaseDatabase database = FirebaseDatabase.getInstance();
+        DatabaseReference results = database.getReference("results");
+
+        results.child(user).setValue(correctCount);
+
     }
 
-    public void showMain(View view){
-        Intent intent = new Intent(this, MainActivity.class);
-        startActivity(intent);
-    }
+
+        public void showMain(View view){
+            Intent intent = new Intent(this, MainActivity.class);
+            startActivity(intent);
+        }
+
+
+
 }

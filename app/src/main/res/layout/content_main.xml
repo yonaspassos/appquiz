@@ -18,6 +18,7 @@
             android:id="@+id/imageView"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
+            android:layout_weight="1"
             android:contentDescription="@string/image"
             app:srcCompat="@drawable/netflix" />
     </LinearLayout>
@@ -31,7 +32,7 @@
         android:layout_alignBottom="@id/btnwrap"
         android:layout_marginTop="88dp"
         android:layout_marginBottom="-188dp"
-        android:gravity="center|center_horizontal|center_vertical"
+        android:gravity="center"
         android:orientation="vertical">
 
         <TextView
@@ -55,13 +56,22 @@
             android:id="@+id/exibirMensagem"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_weight="0.5"
+            android:layout_weight="1"
             android:backgroundTint="#9C0101"
-            android:onClick="showQuiz"
-            android:text="@string/come_ar"
+            android:onClick="showCategory"
+            android:text="@string/showQuizBtn"
             android:textAlignment="center"
             android:textColor="#FFFFFF" />
 
     </LinearLayout>
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        app:adSize="BANNER"
+        app:adUnitId="ca-app-pub-1835076353634496~2849265011"></com.google.android.gms.ads.AdView>
 
 </RelativeLayout>
