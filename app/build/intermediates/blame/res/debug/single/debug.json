@@ -2924,6 +2924,10 @@
         "source": "/home/yona/.gradle/caches/transforms-2/files-2.1/d38c8c1ce43e0c52b2efab56df1b33a4/material-1.1.0/res/color/mtrl_navigation_item_text_color.xml"
     },
     {
+        "merged": "/home/yona/AndroidStudioProjects/Quiz/app/build/intermediates/res/merged/debug/layout_activity_show_ranking.xml.flat",
+        "source": "/home/yona/AndroidStudioProjects/Quiz/app/src/main/res/layout/activity_show_ranking.xml"
+    },
+    {
         "merged": "/home/yona/AndroidStudioProjects/Quiz/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_messenger_button_send_round_shadow.png.flat",
         "source": "/home/yona/.gradle/caches/transforms-2/files-2.1/4a4331c1e598134aa3b9518e0fc6668e/facebook-messenger-4.41.0/res/drawable-xhdpi-v4/messenger_button_send_round_shadow.png"
     },

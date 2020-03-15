@@ -36,27 +36,27 @@ public class CategoryActivity extends AppCompatActivity {
         Intent previousIntent = getIntent();
         username = previousIntent.getStringExtra("username");
 
-        Button btnCategory1 = findViewById(R.id.btnCategory1);
-        Button btnCategory2 = findViewById(R.id.btnCategory2);
-        Button btnCategory3 = findViewById(R.id.btnCategory3);
+        ImageView Category1 = findViewById(R.id.laCasaDePapel);
+        ImageView Category2 = findViewById(R.id.lucifer);
+        ImageView Category3 = findViewById(R.id.you);
 
 
 
-        btnCategory1.setOnClickListener(new View.OnClickListener() {
+        Category1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 showQuestion(1);
             }
         });
 
-        btnCategory2.setOnClickListener(new View.OnClickListener() {
+        Category2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 showQuestion(2);
             }
         });
 
-        btnCategory3.setOnClickListener(new View.OnClickListener() {
+        Category3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 showQuestion(3);

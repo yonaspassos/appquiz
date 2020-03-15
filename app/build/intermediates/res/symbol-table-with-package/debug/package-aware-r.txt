@@ -1666,9 +1666,6 @@ id browser_actions_menu_item_icon
 id browser_actions_menu_item_text
 id browser_actions_menu_items
 id browser_actions_menu_view
-id btnCategory1
-id btnCategory2
-id btnCategory3
 id btnLoginEmail
 id btn_holder
 id btnwrap
@@ -1801,6 +1798,7 @@ id light
 id line1
 id line3
 id listMode
+id listRanking
 id list_item
 id logo
 id lucifer
@@ -1874,6 +1872,7 @@ id progress_circular
 id progress_horizontal
 id radio
 id radioGroup
+id ranking
 id resend_barrier
 id resend_code
 id resultCount
@@ -1885,6 +1884,7 @@ id rounded
 id save_non_transition_alpha
 id save_overlay_view
 id scale
+id score_txt
 id screen
 id scroll
 id scrollIndicatorDown
@@ -1976,12 +1976,15 @@ id transition_scene_layoutid_cache
 id transition_transform
 id trouble_signing_in
 id trouble_signing_in_possible_fixes
+id txtScore
+id txtUser
 id unchecked
 id uniform
 id unknown
 id unlabeled
 id up
 id useLogo
+id user_txt
 id view_offset_helper
 id visible
 id welcome_back_email_link_body
@@ -2057,6 +2060,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_category
 layout activity_login
+layout activity_show_ranking
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row
 layout com_facebook_activity_layout

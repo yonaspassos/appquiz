@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:2:1-60:12
-INJECTED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:2:1-60:12
-INJECTED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:2:1-60:12
-INJECTED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:2:1-60:12
+ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:2:1-63:12
+INJECTED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:2:1-63:12
+INJECTED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:2:1-63:12
+INJECTED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:2:1-63:12
 MERGED from [com.firebaseui:firebase-ui-auth:4.3.1] /home/yona/.gradle/caches/transforms-2/files-2.1/8c55d64f990279725e96233253ac908e/jetified-firebase-ui-auth-4.3.1/AndroidManifest.xml:2:1-109:12
 MERGED from [com.google.android.material:material:1.1.0] /home/yona/.gradle/caches/transforms-2/files-2.1/d38c8c1ce43e0c52b2efab56df1b33a4/material-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] /home/yona/.gradle/caches/transforms-2/files-2.1/a123ae774e418fd4c6d674d3ccd271f3/jetified-library-1.4.2/AndroidManifest.xml:6:1-16:12
@@ -75,22 +75,22 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] /home/yona/.gradle/caches
 MERGED from [androidx.print:print:1.0.0] /home/yona/.gradle/caches/transforms-2/files-2.1/44ae74873f1c9e1aca0086a7628c9876/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/yona/.gradle/caches/transforms-2/files-2.1/f5eef50d369f3d397af2e471b999e152/firebase-database-collection-17.0.0/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-ads-base:19.0.0] /home/yona/.gradle/caches/transforms-2/files-2.1/837093af0dda2812e63b02ee70ac06bf/play-services-ads-base-19.0.0/AndroidManifest.xml:2:1-9:12
-INJECTED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:2:1-60:12
-INJECTED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:2:1-60:12
-INJECTED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:2:1-63:12
+INJECTED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:2:1-63:12
+INJECTED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:2:1-63:12
 	package
 		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:4:5-28
 		INJECTED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml
 		INJECTED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml
-		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:2:1-60:12
+		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:2:1-63:12
 		INJECTED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml
-		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:2:1-60:12
+		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:2:1-63:12
 		INJECTED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:2:11-69
@@ -107,7 +107,7 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /h
 	android:name
 		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:6:22-64
 application
-ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:8:5-58:19
+ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:8:5-61:19
 MERGED from [com.firebaseui:firebase-ui-auth:4.3.1] /home/yona/.gradle/caches/transforms-2/files-2.1/8c55d64f990279725e96233253ac908e/jetified-firebase-ui-auth-4.3.1/AndroidManifest.xml:15:5-107:19
 MERGED from [com.firebaseui:firebase-ui-auth:4.3.1] /home/yona/.gradle/caches/transforms-2/files-2.1/8c55d64f990279725e96233253ac908e/jetified-firebase-ui-auth-4.3.1/AndroidManifest.xml:15:5-107:19
 MERGED from [com.google.android.material:material:1.1.0] /home/yona/.gradle/caches/transforms-2/files-2.1/d38c8c1ce43e0c52b2efab56df1b33a4/material-1.1.0/AndroidManifest.xml:22:5-20
@@ -169,59 +169,63 @@ MERGED from [com.google.android.gms:play-services-ads-base:19.0.0] /home/yona/.g
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] /home/yona/.gradle/caches/transforms-2/files-2.1/2af1cf65b16e935bd33bb0352dc9bbc6/core-1.1.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:14:9-35
+		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:12:9-45
+		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:11:9-45
 	tools:ignore
-		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:16:9-48
+		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:15:9-48
 	android:roundIcon
-		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:13:9-54
+		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:12:9-54
 	android:icon
-		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:11:9-43
+		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:10:9-43
 	android:allowBackup
-		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:15:9-40
+		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.yona.quiz.ShowRanking
+ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:16:9-58
+	android:name
+		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:16:19-46
 activity#com.yona.quiz.MainActivity
-ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:20:9-22:58
+ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:17:9-19:59
+	android:theme
+		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:18:13-41
+activity#com.yona.quiz.CategoryActivity
+ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:20:9-22:59
 	android:theme
 		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:22:13-56
 	android:name
-		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:21:13-41
-activity#com.yona.quiz.CategoryActivity
-ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:23:9-24:58
-	android:theme
-		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:24:13-56
-	android:name
-		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:23:19-51
+		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:21:13-45
 activity#com.facebook.FacebookActivity
-ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:25:9-28:48
+ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:23:9-26:48
 MERGED from [com.firebaseui:firebase-ui-auth:4.3.1] /home/yona/.gradle/caches/transforms-2/files-2.1/8c55d64f990279725e96233253ac908e/jetified-firebase-ui-auth-4.3.1/AndroidManifest.xml:83:9-87:48
 MERGED from [com.firebaseui:firebase-ui-auth:4.3.1] /home/yona/.gradle/caches/transforms-2/files-2.1/8c55d64f990279725e96233253ac908e/jetified-firebase-ui-auth-4.3.1/AndroidManifest.xml:83:9-87:48
 MERGED from [com.facebook.android:facebook-common:4.41.0] /home/yona/.gradle/caches/transforms-2/files-2.1/cf21402c68d2fb0c9e96f79c96f48592/jetified-facebook-common-4.41.0/AndroidManifest.xml:29:9-32:66
 MERGED from [com.facebook.android:facebook-common:4.41.0] /home/yona/.gradle/caches/transforms-2/files-2.1/cf21402c68d2fb0c9e96f79c96f48592/jetified-facebook-common-4.41.0/AndroidManifest.xml:29:9-32:66
 	android:label
-		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:28:13-45
+		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:26:13-45
 	tools:ignore
 		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] /home/yona/.gradle/caches/transforms-2/files-2.1/8c55d64f990279725e96233253ac908e/jetified-firebase-ui-auth-4.3.1/AndroidManifest.xml:87:13-45
 	android:configChanges
-		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:27:13-96
+		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:25:13-96
 	android:theme
 		ADDED from [com.facebook.android:facebook-common:4.41.0] /home/yona/.gradle/caches/transforms-2/files-2.1/cf21402c68d2fb0c9e96f79c96f48592/jetified-facebook-common-4.41.0/AndroidManifest.xml:32:13-63
 	android:name
-		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:26:13-57
+		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:24:13-57
 activity#com.facebook.CustomTabActivity
-ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:29:9-90
+ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:27:9-29:39
 MERGED from [com.firebaseui:firebase-ui-auth:4.3.1] /home/yona/.gradle/caches/transforms-2/files-2.1/8c55d64f990279725e96233253ac908e/jetified-firebase-ui-auth-4.3.1/AndroidManifest.xml:88:9-100:20
 MERGED from [com.firebaseui:firebase-ui-auth:4.3.1] /home/yona/.gradle/caches/transforms-2/files-2.1/8c55d64f990279725e96233253ac908e/jetified-firebase-ui-auth-4.3.1/AndroidManifest.xml:88:9-100:20
 MERGED from [com.facebook.android:facebook-common:4.41.0] /home/yona/.gradle/caches/transforms-2/files-2.1/cf21402c68d2fb0c9e96f79c96f48592/jetified-facebook-common-4.41.0/AndroidManifest.xml:34:9-67
 MERGED from [com.facebook.android:facebook-common:4.41.0] /home/yona/.gradle/caches/transforms-2/files-2.1/cf21402c68d2fb0c9e96f79c96f48592/jetified-facebook-common-4.41.0/AndroidManifest.xml:34:9-67
 	android:exported
-		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:29:65-88
+		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:29:13-36
 	tools:ignore
 		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] /home/yona/.gradle/caches/transforms-2/files-2.1/8c55d64f990279725e96233253ac908e/jetified-firebase-ui-auth-4.3.1/AndroidManifest.xml:91:13-45
 	android:name
-		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:29:19-64
+		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:28:13-58
 activity#com.yona.quiz.ResultActivity
 ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:30:9-33:59
 	android:label
@@ -231,62 +235,62 @@ ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xm
 	android:name
 		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:31:13-43
 activity#com.yona.quiz.QuestionActivity
-ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:34:9-35:58
+ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:34:9-36:59
 	android:theme
-		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:35:13-56
+		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:36:13-56
 	android:name
-		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:34:19-51
+		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:35:13-45
 activity#com.yona.quiz.LoginActivity
-ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:36:9-48:20
+ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:37:9-52:20
 	android:label
-		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:38:13-49
+		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:39:13-49
 	android:theme
-		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:39:13-56
+		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:40:13-56
 	android:name
-		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:37:13-42
+		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:38:13-42
 intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER+data:scheme:@string/fb_login_protocol_scheme
-ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:40:13-47:29
+ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:41:13-51:29
 action#android.intent.action.MAIN
-ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:41:17-69
-	android:name
-		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:41:25-66
-action#android.intent.action.VIEW
 ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:42:17-69
 	android:name
 		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:42:25-66
+action#android.intent.action.VIEW
+ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:43:25-66
 category#android.intent.category.DEFAULT
-ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:43:17-76
+ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:45:17-76
 	android:name
-		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:43:27-73
+		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:45:27-73
 category#android.intent.category.BROWSABLE
-ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:44:17-78
+ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:46:17-78
 	android:name
-		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:44:27-75
+		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:46:27-75
 data
-ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:45:17-75
+ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:48:17-75
 	android:scheme
-		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:45:23-72
+		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:48:23-72
 category#android.intent.category.LAUNCHER
-ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:46:17-77
+ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:50:17-77
 	android:name
-		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:46:27-74
+		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:50:27-74
 meta-data#com.facebook.sdk.ApplicationId
-ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:49:9-52:45
+ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:54:9-57:45
 MERGED from [com.firebaseui:firebase-ui-auth:4.3.1] /home/yona/.gradle/caches/transforms-2/files-2.1/8c55d64f990279725e96233253ac908e/jetified-firebase-ui-auth-4.3.1/AndroidManifest.xml:19:9-21:63
 MERGED from [com.firebaseui:firebase-ui-auth:4.3.1] /home/yona/.gradle/caches/transforms-2/files-2.1/8c55d64f990279725e96233253ac908e/jetified-firebase-ui-auth-4.3.1/AndroidManifest.xml:19:9-21:63
 	tools:replace
-		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:52:13-42
+		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:57:13-42
 	android:value
-		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:51:13-52
+		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:56:13-52
 		REJECTED from [com.firebaseui:firebase-ui-auth:4.3.1] /home/yona/.gradle/caches/transforms-2/files-2.1/8c55d64f990279725e96233253ac908e/jetified-firebase-ui-auth-4.3.1/AndroidManifest.xml:21:13-60
 	android:name
-		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:50:13-58
+		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:55:13-58
 meta-data#com.google.android.gms.ads.APPLICATION_ID
-ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:53:9-55:69
+ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:58:9-60:70
 	android:value
-		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:55:13-67
+		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:60:13-67
 	android:name
-		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:54:13-69
+		ADDED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml:59:13-69
 uses-sdk
 INJECTED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/yona/AndroidStudioProjects/Quiz/app/src/main/AndroidManifest.xml
